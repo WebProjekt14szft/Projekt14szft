@@ -12,6 +12,7 @@ const Head = () => {
           <img className="headimage" src={Image} alt="" />
           {/*<div className="circle_4"></div>
 
+<<<<<<< HEAD
           <div className="circle_5"></div>
 
           <div className="circle_7"></div>
@@ -24,7 +25,6 @@ const Head = () => {
           <div className="circle_6"></div>
 
   <div className="circle"></div>*/}
-          <div className="circle"></div>
         </div>
 
         <div className="title">
