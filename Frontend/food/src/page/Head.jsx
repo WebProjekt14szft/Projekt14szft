@@ -9,8 +9,8 @@ const Head = () => {
     <section>
       <div className="flex-container">
         <div className="left-side">
-          <img src={Image} alt="" />
-          <div className="circle_4"></div>
+          <img className="headimage" src={Image} alt="" />
+          {/*<div className="circle_4"></div>
 
           <div className="circle_5"></div>
 
@@ -23,7 +23,7 @@ const Head = () => {
           <div className="circle_12"></div>
           <div className="circle_6"></div>
 
-          <div className="circle"></div>
+  <div className="circle"></div>*/}
         </div>
 
         <div className="title">
