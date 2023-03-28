@@ -2,7 +2,7 @@ section {
   box-sizing: border-box;
 }
 
-img {
+.headimage {
   width: 300px;
 }
 .flex-container {

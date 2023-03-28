@@ -9,10 +9,25 @@ const Head = () => {
     <section>
       <div className="flex-container">
         <div className="left-side">
-          <img src={Image} alt="" />
-          <div className="circle_4"></div>
+          <img className="headimage" src={Image} alt="" />
+          {/*<div className="circle_4"></div>
 
+<<<<<<< HEAD
+          <div className="circle_5"></div>
+
+          <div className="circle_7"></div>
+
+          <div className="circle_8"></div>
+          <div className="circle_9"></div>
+          <div className="circle_10"></div>
+          <div className="circle_11"></div>
+          <div className="circle_12"></div>
+          <div className="circle_6"></div>
+
+  <div className="circle"></div>*/}
+=======
           <div className="circle"></div>
+>>>>>>> e9876ca33603726948d64d42fb7a142fac808528
         </div>
 
         <div className="title">
